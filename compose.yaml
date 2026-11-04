@@ -1,0 +1,2 @@
+# The MySQL server is started separately. This project connects to it through MYSQL_URL.
+services: {}
